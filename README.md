@@ -1,5 +1,7 @@
 # studentapp
 
+CRUD Operations using Vue JS
+
 ## Project setup
 ```
 npm install
